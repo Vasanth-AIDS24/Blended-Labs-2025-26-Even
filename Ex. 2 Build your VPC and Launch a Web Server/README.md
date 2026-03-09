@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: Vasanth P________________________________
-* **Register Number**: 212224230295_____________________
-* **Date of Submission**: 09-03-2026__________________
+* **Name**: Vasanth P
+* **Register Number**: 212224230295
+* **Date of Submission**: 09-03-2026
 
 ---
 
