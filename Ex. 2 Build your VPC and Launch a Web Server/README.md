@@ -88,11 +88,12 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 (Write the steps you followed in your own words)
 
 1. The first step was to create a vpc
-2.Then subnets was created and configured inside the VPC
-3.Attached internet gateway
-4.Configured route tables
-5.EC2 instance was launched
-6.Finally configured the web server
+2. Then subnets was created and configured inside the VPC
+3. Attached internet gateway
+4. Configured route tables
+5. EC2 instance was launched
+6. Finally configured the web server
+
 
 
 ---
